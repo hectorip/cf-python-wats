@@ -11,3 +11,12 @@ Algunos temas que se abordan son:
 - Concurrencia
 - Características de Python
 - Iteradores
+
+## Fuente
+
+La mayoría de los ejemplos fueron tomados de el libro de Pragmatic Programmers: [Python Brain Teasers](https://pragprog.com/titles/d-pybrain/python-brain-teasers/).
+
+ Como referencia para entender los problemas a fondo tienes:
+
+- [The Python Language Reference](https://docs.python.org/3/reference/index.html)
+- [The Python Standard Library](https://docs.python.org/3/library/index.html).
