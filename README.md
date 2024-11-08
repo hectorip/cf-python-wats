@@ -7,7 +7,7 @@ Cada uno de los ejemplos tiene una explicación de su comportamiento que nos dej
 Algunos temas que se abordan son:
 
 - Representación de valores en el intérprete
-- Diseño de la funciones
+- Diseño de las funciones
 - Concurrencia
 - Características de Python
 - Iteradores
