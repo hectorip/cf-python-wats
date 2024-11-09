@@ -1,9 +1,15 @@
 # Red, green, blue
 
+mi_cadena = "hola "
+"mundo"
+"Como estan"
+
+
 colors = [
     "red",
     "green"
-    "blue",
+    "blue", # Dangling comma
 ]
 
+print(mi_cadena)
 print(colors)
