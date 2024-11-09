@@ -1,5 +1,6 @@
 # Funcionamiento de Threads como demonios
-
+# " daemon=True " es para que el thread se
+# termine cuando el programa principal termine
 from threading import Thread
 import time
 
