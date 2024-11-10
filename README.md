@@ -1,15 +1,18 @@
 # Rompecabezas en Python
 
-En cada uno de los ejemplos del repositorio se presenta un script de Python que puede o no funcionar como lo esperas.
+En cada uno de los ejemplos del repositorio se presenta un script de Python
+que puede no funcionar como lo esperas.
 
-Cada uno de los ejemplos tiene una explicación de su comportamiento que nos deja una lección de programación en general o sobre el lenguaje o el intérprete de Python.
+Cada uno de los ejemplos tiene una explicación de su comportamiento que nos
+deja una lección de programación en general o sobre el lenguaje o el intérprete
+de Python, o también sobre la programación en general.
 
 Algunos temas que se abordan son:
 
-- Representación de valores en el intérprete
+- Representación de valores en el intérprete (números enteros y flotantes)
 - Diseño de las funciones
-- Concurrencia
-- Características de Python
+- Concurrencia (con procesos y threads)
+- Características de la sintaxis de Python
 - Iteradores
 
 ## Fuente
