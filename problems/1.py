@@ -1,6 +1,7 @@
 # Funcionamiento de Threads como demonios
 # " daemon=True " es para que el thread se
 # termine cuando el programa principal termine
+
 from threading import Thread
 import time
 
@@ -12,6 +13,7 @@ def imprimir():
 
 
 thr = Thread(target=imprimir, daemon=True)
+
 thr.start()
 
 # thr.join() # así se espera a que termine el thread
